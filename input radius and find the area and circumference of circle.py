@@ -5,4 +5,4 @@ Circumference=2*math.pi*radius
 Area=math.pi*radius**2
 print("Circumference of circle is=",Circumference)
 print("Area of the circle is=",Area)
-print(Nikhil Gandu hai)
+
